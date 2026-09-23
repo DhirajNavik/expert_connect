@@ -1,0 +1,10 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+
+  android_flavor: customer
+  ios_flavor: customer
+
+  image_path: "assets/logo/customer.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true

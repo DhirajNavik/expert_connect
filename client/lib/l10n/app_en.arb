@@ -1,0 +1,61 @@
+{
+  "language":"English",
+
+  "@text_place_holder": {
+      "placeholders": {
+        "input": {}
+      }
+  },
+
+  "email":"Email",
+  "email_address":"Email Address",
+  "email_hint":"user@experts.com",
+  "password":"Password",
+  "password_hint":"123@Abcd",
+  "remember_me":"Remember Me",
+  "welcome_back":"Welcome Back",
+  "enter_your_details_please":"Enter your details please",
+  "dont_have_an_account":"Dont have an account?",
+  "create_one":"Create One" ,
+  "login":"Login",
+
+
+  "create_your_account":"Create your account",
+  "organisation":"Organisation",
+  "select_organisation":"Select Organisation",
+  "name":"Name",
+  "enter_your_name":"Enter your Name",
+  "phone_number":"Phone Number",
+  "enter_your_phone_number":"Enter Phone Number",
+  "confirm_password":"Confirm Password",
+  "enter_your_confirm_password":"Enter your Confirm Password",
+  "register":"Register",
+
+
+  "@settings": {
+    "description": "This section is for settings page"
+  },
+  "settings":"Settings",
+  "help_and_support":"Help and Support",
+  "logout":"Logout",
+
+
+  "@schedule": {
+    "description":"This is schedule page"
+  },
+  "my_schedule":"My Schedule",
+  "add_block_dates":"Add Block Dates",
+  "blocked_dates":"Blocked Dates",
+  "active_dates":"Active Dates",
+  "schedule_overview":"Schedule Overview",
+  "tap_to_edit":"Tap to edit",
+  "start_time":"Start Time",
+  "end_time":"End Time",
+  "add_breaks":"Add Breakes",
+  "no_break_times_added":"No break Timings added",
+  "session_duration":"Session Duration",
+  "duration_per_meeting":"Duration per meeting",
+  "save_changes":"Save Changes",
+  "cancel":"Cancel"
+
+}

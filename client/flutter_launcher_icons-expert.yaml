@@ -1,0 +1,10 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+
+  android_flavor: expert
+  ios_flavor: expert
+
+  image_path: "assets/logo/expert.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true

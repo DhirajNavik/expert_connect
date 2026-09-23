@@ -1,0 +1,25 @@
+app:
+  android:
+    flavorDimensions: "flavor-type"
+
+flavors:
+  customer:
+    app:
+      name: "Expert Connect"
+
+    android:
+      applicationId: "com.byc.expert_connect"  
+    ios:
+      bundleId: "com.sidonline.expertconnect"
+
+  expert:
+    app:
+      name: "Expert Hub"
+  
+    android:
+      applicationId: "com.sidonline.vendor"
+    ios:
+      bundleId: "com.sidonline.vendor"
+
+ide:
+  - vscode
